@@ -38,7 +38,7 @@ Use this script for headless mac mini m4 and use your ipad as main display.
 
 5) BetterDisplay [Guide](betterdisplay.md) or skip this step if you use Dummy Plug HDMI (can be purchase on your local computer shop for few dollar.)
 
-6) Reboot your mac mini, see if it auto connect to your ipad on boot. If success, unplug the hdmi cable and reboot again. Now you will have a mac mini with your ipad main display where you can bring around.
+6) Reboot your mac mini, see if it auto connect to your ipad on boot. If success, unplug the hdmi cable and reboot again. Now you will have a mac mini with your ipad as main display where you can bring around.
 
 # Disclaimer 
 The code, script, or guide provided above is shared for informational purposes only and is intended to help users understand the topic. Use this code at your own risk. I am not responsible for any damage, loss, or issues caused directly or indirectly by the use of this script or guide. Please ensure you fully understand the code and its potential impact before using it, and test it in a safe environment. Always back up your data and systems before making any changes.
