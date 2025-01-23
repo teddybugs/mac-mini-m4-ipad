@@ -32,7 +32,7 @@ Use this script for headless mac mini m4 and use your ipad as main display.
 
 -   Open **System Settings** > **General** > **Login Items**.
 -   Under the **Open at Login** section, click the **+** button.
--   Select the saved above application and add it.
+-   Select the saved application above and add it to Login Items
 ![enter image description here](https://raw.githubusercontent.com/teddybugs/mac-mini-m4-ipad/refs/heads/main/img/5.png)  
 -   Double click the application you added, it will ask for some permission, allow it.
 
